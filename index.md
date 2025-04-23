@@ -4,3 +4,5 @@
 #### i need to prepare this
 ##### i need to revise
 ###### i need to write my exam
+![link to arnold pose pic](https://octodex.github.com/images/yaktocat.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
