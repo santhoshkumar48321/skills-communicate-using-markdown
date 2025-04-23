@@ -12,3 +12,6 @@ b=2
 c=a+b
 print("the value is",c)
 ```
+- [] see the notification
+- [] done the studies
+- [x] go the gym
